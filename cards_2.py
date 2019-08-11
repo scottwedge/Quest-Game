@@ -42,6 +42,7 @@ class equipment:
 #    stages
 #    reward
 
+print("Hello")
 # Ranked Classes
 sq = ranks("Squire", 'image', 5)
 kn = ranks("Knight", 'image', 10)
