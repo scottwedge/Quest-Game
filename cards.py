@@ -9,8 +9,9 @@ Creating a cards library / deck
 import random
 from PIL import Image, ImageDraw
 #Local Path
-local_path = r"C:\Users\xTheC\Desktop\Quest\Quest-Game\\"
-image_path = r"C:\Users\xTheC\Desktop\Quest\Quest-Game\Images\\"
+#local_path =r"C:\Users\jorda\Documents\PythonPrograms\Questar"
+local_path = r"C:\Users\xTheC\Desktop\Quest\Quest-Game"
+image_path = local_path+"\Images"
 
 # Create the deck
 
@@ -27,7 +28,7 @@ class card:
 # Perhaps make a class for each type of card instead of one generic form
 
 #images
-im_sw = Image.open(image_path+"dragon.jpg")
+im_sw = Image.open(image_path+"\sword.png")
     
 # Weapons
 sword = card("Sword", im_sw, "1-Handed Weapon", 10, "Sharp Steel")
