@@ -8,9 +8,11 @@ Creating a cards library / deck
 """
 import random
 from PIL import Image, ImageDraw
+
 #Local Path
-#local_path =r"C:\Users\jorda\Documents\PythonPrograms\Questar"
-local_path = r"C:\Users\xTheC\Desktop\Quest\Quest-Game"
+
+local_path =r"C:\Users\jorda\Documents\PythonPrograms\Questar\Git_Stuff\Quest-Game"
+#local_path = r"C:\Users\xTheC\Desktop\Quest\Quest-Game"
 image_path = local_path+"\Images"
 
 # Create the deck
@@ -41,3 +43,5 @@ shield = card("Kite Shield", "shield image", "1-Handed", 20, "Impenetrable")
 #print(sword.title, sword.type)
 #print(sword.stats, shield.desc, spear.image)
 sword.image.show()
+
+# Jordan is the best
