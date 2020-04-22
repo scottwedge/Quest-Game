@@ -1,0 +1,11 @@
+Jordan Branch
+Open in Explorer
+Do your Changes
+	Spyder
+	folders
+	files
+
+pull request: If I want it the be THE code - Create a pull request and merge
+
+Push Origin: Update my Jordan branch on github from my jordan local branch
+
