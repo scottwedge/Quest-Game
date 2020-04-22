@@ -5,6 +5,7 @@ Do your Changes
 	folders
 	files
 
-pull request: Update my Jordan branch on github from my jordan local branch
-If I want it the be THE code - Create a pull request and merge
+pull request: If I want it the be THE code - Create a pull request and merge
+
+Push Origin: Update my Jordan branch on github from my jordan local branch
 
