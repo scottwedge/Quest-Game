@@ -18,6 +18,6 @@ class ranks:
         self.stats = s #rank strength (5,10,20)
 
 #Create Ranks
-squire = ranks("Squire", 'image_placeholder', 5)
-knight = ranks("Knight", 'image_placeholder', 10)
-champion = ranks("Champion", 'image_placeholder', 20)
+squire = ranks(1,"Squire", 'image_placeholder', 5)
+knight = ranks(2,"Knight", 'image_placeholder', 10)
+champion = ranks(3,"Champion", 'image_placeholder', 20)
