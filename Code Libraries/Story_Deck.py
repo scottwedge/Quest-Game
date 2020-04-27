@@ -62,15 +62,15 @@ class event:
         self.type = y
         self.effect = e
 
-Story_Deck['e1'] = event("King's Recognition",             'event', "Next player(s) to complete a quest will recieve 2 extra shield")
-Story_Deck['e2'] = event("King's Recognition",             'event', "Next player(s) to complete a quest will recieve 2 extra shield")
-Story_Deck['e3'] = event("Queen's Favor",                  'event', "The lowest ranked player(s) immediately recieve two adventure cards")
-Story_Deck['e4'] = event("Queen's Favor",                  'event', "The lowest ranked player(s) immediately recieve two adventure cards")
+Story_Deck['e1'] = event("King's Recognition",             'event', "Next player(s) to complete a quest will receive 2 extra shields")
+Story_Deck['e2'] = event("King's Recognition",             'event', "Next player(s) to complete a quest will receive 2 extra shields")
+Story_Deck['e3'] = event("Queen's Favor",                  'event', "The lowest ranked player(s) immediately receive two adventure cards")
+Story_Deck['e4'] = event("Queen's Favor",                  'event', "The lowest ranked player(s) immediately receive two adventure cards")
 Story_Deck['e5'] = event("Court Called to Camelot",        'event', "All allies must be discarded")
 Story_Deck['e6'] = event("Court Called to Camelot",        'event', "All allies must be discarded")
 Story_Deck['e7'] = event("Pox",                            'event', "All players except the one drawing this card lose 1 shield")
 Story_Deck['e8'] = event("Plague",                         'event', "Drawer loses 2 shields if possible")
-Story_Deck['e9'] = event("Chivalrous Deed",                'event', "Player(s) with both the lowest rank and least amount of shileds, recieves 3 shields")
+Story_Deck['e9'] = event("Chivalrous Deed",                'event', "Player(s) with both the lowest rank and least amount of shields, receives 3 shields")
 Story_Deck['e10'] = event("Prosperity Throught the Realm", 'event', "All players may immediately draw 2 Adventure Cards")
 Story_Deck['e11'] = event("King's Call to Arms",           'event', "The highest ranked player(s) must place 1 weapon in the discard pile. If unable to do so, 2 Foe Cards must be discarded")
 
